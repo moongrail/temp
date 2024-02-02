@@ -66,7 +66,7 @@ public class AdviceRepositoryInMemoryImpl implements AdviceRepository {
                 .description("Попробуй ещё раз. Попей чай и ещё раз попробуй.")
                 .build();
         Advice advice5 = Advice.builder()
-                .description("Совет 5. https://www.youtube.com/watch?v=cMDbsL27g_E&ab_channel=%D0%9C%D1%83%D0%B4%D1%80%D0%B5%D1%86%D1%8B%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D1%8F%D1%82")
+                .description("Совет 5. https://www.youtube.com/shorts/RGNAT9MW6zA")
                 .build();
 
         save(advice1);
